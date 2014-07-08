@@ -38,10 +38,23 @@ body {
 
 
 
-p {
+.project p {
+     font-variant: small-caps;
+}
+
+.project1 {
      font-variant: small-caps;
 }
 
 #project1 {
+    margin-left: 10px;
+}
+
+.project {
      font-variant: small-caps;
+     margin-left: 10px;
+     background-color: #A8F9FF;
+
+     padding: 20px;
+     width: 565px;
 }
